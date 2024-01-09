@@ -237,6 +237,9 @@ header {
     max-width: 100%;
 }
 
+.gift-img-1:hover{
+    opacity: .3;
+}
 /* subscription style; */
 .subscription {
     margin-top: 400px;
